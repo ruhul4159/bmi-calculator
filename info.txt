@@ -1,0 +1,3 @@
+Netlify link: https://bmi-calculator-ruhul4159.netlify.app/
+Github site:    https://ruhul4159.github.io/bmi-calculator/
+Github repo link:  https://github.com/ruhul4159/bmi-calculator
