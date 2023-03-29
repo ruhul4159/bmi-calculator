@@ -32,7 +32,7 @@ label {
 }
 
 input {
-	color: transparent;
+	background-color: transparent;
 	padding: 10px;
 	margin-bottom: 20px;
 	border: none;
@@ -42,15 +42,15 @@ input {
 
 button {
 	padding: 10px;
-	background-color: #064545;
-	color: #fbeeee;
-	border: none;
+	background-color: gold
+	color: #131111;
+	border: rgb(32, 218, 85)
 	border-radius: 5px;
 	cursor: pointer;
 }
 
 button:hover {
-	background-color: #044c07;
+	background-color: #acd4ae;
 }
 
 #result {
